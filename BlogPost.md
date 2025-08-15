@@ -334,7 +334,7 @@ The most exciting part? The skills you learn with Azurite translate directly to 
 
 ## Get the Complete Source Code
 
-You can find the complete source code for this tutorial on GitHub: **[YOUR_GITHUB_REPO_URL_HERE]**
+You can find the complete source code for this tutorial on GitHub: **[https://github.com/RajeevPentyala/AzuriteDemo](https://github.com/RajeevPentyala/AzuriteDemo)**
 
 The repository includes:
 - Complete QueuesDemo console application

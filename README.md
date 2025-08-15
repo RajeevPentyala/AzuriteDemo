@@ -73,7 +73,7 @@ Before getting started, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AzuriteDemo.git
+git clone https://github.com/RajeevPentyala/AzuriteDemo.git
 cd AzuriteDemo
 ```
 
@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📝 Blog Post
 
-Check out the detailed blog post explaining this project: [Building Azure Queue and Functions Locally with Azurite: A Beginner's Guide](https://your-blog-url.com)
+Check out the detailed blog post explaining this project: [Building Azure Queue and Functions Locally with Azurite: A Beginner's Guide](YOUR_BLOG_POST_URL_HERE)
 
 ---
 
